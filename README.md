@@ -5,4 +5,4 @@ We propose spatially regularized collective spectral estimation (SRCSE) for join
 
 'fn.r': R code for functions.
 'sim.r': reproduce the simulations.
-'Spain.r': reproduce the results in Spanish weather data analysis.
+'spanish.r': reproduce the results in Spanish weather data analysis.
